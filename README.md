@@ -1,2 +1,2 @@
 # ziangxue.github.io
-The Cloud Diary
+Handwriting recognition and validation.
